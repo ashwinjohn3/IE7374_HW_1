@@ -1,0 +1,2 @@
+# IE7374_HW_1
+Use the housing and yacht dataset to estimate the regression weights by normal equations. Compare the performance (measured through RMSE) with the results obtained using the gradient descent algorithm. In this section you will calculate the analytical solution in Python that we obtained through Normal equations to learn your weight vector, and contrast the performance (train- ing and test RMSE) for your gradient-descent based implementation.
